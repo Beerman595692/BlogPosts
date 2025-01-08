@@ -1,4 +1,4 @@
 # My First Post
 I like cheese
 
-![[Engineer Infernape.png]]
+![[My First Blog Post.png]]
