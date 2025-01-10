@@ -1,6 +1,6 @@
 ---
 created: 2025-01-10T21:30
-updated: 2025-01-10T23:28
+updated: 2025-01-10T23:34
 ---
 Core to the beliefs of Jehovah's Witnesses is that the book of Genesis is 100% historical fact. That all creatures were individually created by God and that humans are special among all other life.
 
@@ -31,7 +31,7 @@ If highly trained scientists are unable to produce new species by artificially i
 
 Scientists have produced new species though.
 
-Image
+![Flies](https://github.com/Beerman595692/BlogPosts/blob/main/Media/evolution/Screenshot%202025-01-10%20at%2021-59-45%20What%20JW%20Get%20Wrong%20About%20Evolution.pdf.png?raw=true)
 
 If they cannot breed with each other they
 are a different species
@@ -197,10 +197,11 @@ Let us assume that the estimates of researchers are accurate. In that case, the
 history of the earth could be represented by a time line that stretches the length of a soccer field (1). At that scale, you would have to walk about seven eighths of the way down the field before you would come to what paleontologists call the Cambrian period (2). During a small segment of that period, the major divisions of animal life show up in the fossil record. How suddenly do they appear? As you walk down the soccer field, all those different creatures pop up in the space of less 
 than one step!
 ```
+![football field](https://github.com/Beerman595692/BlogPosts/blob/main/Media/evolution/1102010346_E_cnt_2_xl.jpg?raw=true)
 
 The Cambrian lasted 53.4 million years. All that’s been established here is the earth is really old. The explosion is just the fact that the Cambrian is marked by the emergence of hard body tissue like shells and exoskeletons that can fossilize easier. Though fossils that predate the Cambrian have been discovered. Such as the Stromatolite depicted 
 below
-
+ ![Stromatolite](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Stromatolithe_Pal%C3%A9oarch%C3%A9en_-_MNHT.PAL.2009.10.1.jpg/220px-Stromatolithe_Pal%C3%A9oarch%C3%A9en_-_MNHT.PAL.2009.10.1.jpg)
 ### PROBLEMS WITH THE “PROOF”
 ```
 Henry Gee says: “The intervals of time that separate the fossils are so huge that 
@@ -342,6 +343,7 @@ Even if evolution is wrong, there is still no evidence to Adam and Eve being rig
 The biggest blow to this myth is the date the watchtower says Adam and Eve left the garden being 
 4026 B.C.E
 
+![Adam and Eve](https://github.com/Beerman595692/BlogPosts/blob/main/Media/evolution/Pasted%20image%2020250110232118.png?raw=true)
 
 In the November Broadcast of 2017 David Splaine quotes the Smithsonian about the when the Sphinx constructed around 2550 B.C.E. He says the quote is wrong because it contradicts their date for the flood. This an organization that will straight up ignore archaeological evidence if contradicts their beliefs.
 
@@ -363,7 +365,9 @@ The thousands of years of “prehistory” they argue for are dependent on specu
 
 Again this is more misquoting
 https://www.science.org/doi/10.1126/science.132.3444.1913
+![Actual Quote](https://github.com/Beerman595692/BlogPosts/blob/main/Media/evolution/GaMnZXIW8AAR8UZ.png?raw=true)
 
+highlighted are the bits they quoted. You see how much they missed out? This whole article is about the development of scientific tools. It isn't saying anything close to "prehistory is based on conjecture and interpretation"
 # Why we know evolution is true.
 
 Here’s some links and resource to learn more about how we know evolution is a fact.
