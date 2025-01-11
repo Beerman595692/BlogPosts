@@ -1,6 +1,6 @@
 ---
 created: 2025-01-10T21:30
-updated: 2025-01-11T14:59
+updated: 2025-01-11T15:02
 ---
 Core to the beliefs of Jehovah's Witnesses is that the book of Genesis is 100% historical fact. That all creatures were individually created by God and that humans are special among all other life.
 
@@ -36,22 +36,13 @@ If they cannot breed with each other they
 are a different species
 
 
->Darwin believed that what he called natural selection would favor those life-forms
- best suited to the environment, whereas less suitable life-forms would eventually
- die off. Modern evolutionists teach that as species spread and became isolated,
- natural selection chose the ones with gene mutations that made them capable of
- surviving in their new environment. As a result, evolutionists speculate, these
- isolated groups eventually developed into totally new species….
- Nevertheless, what proof do evolutionists provide to support the claim that
- natural selection chooses beneficial mutations to produce new species?
+>Darwin believed that what he called natural selection would favor those life-forms best suited to the environment, whereas less suitable life-forms would eventually die off. Modern evolutionists teach that as species spread and became isolated, natural selection chose the ones with gene mutations that made them capable of surviving in their new environment. As a result, evolutionists speculate, these isolated groups eventually developed into totally new species…. Nevertheless, what proof do evolutionists provide to support the claim that natural selection chooses beneficial mutations to produce new species?
 
 This proof
 https://evolution.berkeley.edu/evolution-101/speciation/evidence-for-speciation/
 https://www.nature.com/articles/nature13285
 
->So, does natural selection really create entirely new species? Decades ago, 
-evolutionary biologist George Christopher Williams began questioning whether 
-natural selection had such power. 
+>So, does natural selection really create entirely new species? Decades ago, evolutionary biologist George Christopher Williams began questioning whether natural selection had such power. 
 
 
 And do you know what his conclusion was? That it can. What he questioned was whether natural 
