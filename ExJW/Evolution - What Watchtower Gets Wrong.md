@@ -1,6 +1,6 @@
 ---
 created: 2025-01-10T21:30
-updated: 2025-01-11T15:02
+updated: 2025-01-11T15:13
 ---
 Core to the beliefs of Jehovah's Witnesses is that the book of Genesis is 100% historical fact. That all creatures were individually created by God and that humans are special among all other life.
 
@@ -140,10 +140,7 @@ Again, another paper about trying to understand evolution better being twisted t
 
 ### WHAT ABOUT THE FOSSIL RECORD?
 
-```
-“Instead of finding the gradual unfolding of life,” says evolutionary paleontologist David M. Raup, “what geologists of Darwin’s time, and geologists of the present day actually find is a highly uneven or jerky record; that is, species appear in the sequence very suddenly, show little or no change during their existence in the record, then abruptly go out of the record.”
-
-```
+>“Instead of finding the gradual unfolding of life,” says evolutionary paleontologist David M. Raup, “what geologists of Darwin’s time, and geologists of the present day actually find is a highly uneven or jerky record; that is, species appear in the sequence very suddenly, show little or no change during their existence in the record, then abruptly go out of the record.”
 
 Here’s the actual article: 
 https://ia800700.us.archive.org/19/items/cbarchive_36375_conflictsbetweendarwinandpaleo1930/conflictsbetweendarwinandpaleo1930.pdf
@@ -159,6 +156,7 @@ Another example of someone writing about understanding evolution better twisted 
 
 The Cambrian lasted 53.4 million years. All that’s been established here is the earth is really old. The explosion is just the fact that the Cambrian is marked by the emergence of hard body tissue like shells and exoskeletons that can fossilize easier. Though fossils that predate the Cambrian have been discovered. Such as the Stromatolite depicted 
 below
+
  ![Stromatolite](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Stromatolithe_Pal%C3%A9oarch%C3%A9en_-_MNHT.PAL.2009.10.1.jpg/220px-Stromatolithe_Pal%C3%A9oarch%C3%A9en_-_MNHT.PAL.2009.10.1.jpg)
 ### PROBLEMS WITH THE “PROOF”
 
