@@ -1,8 +1,9 @@
 ---
 created: 2025-01-08T20:42
-updated: 2025-01-10T20:38
+updated: 2025-01-11T15:00
 ---
 # My Linux Journey
+
 About a year ago I ditch windows and embraced the linux life.
 I started off by installing [Linux Mint](https://www.linuxmint.com/) on an old laptop I had to first dip my toes into linux. It's a good beginner friendly that's meant for people coming from windows in to get used to linux but runs a bit slow. I was then recommend [Nobara](https://nobaraproject.org/) a fedora based distro focused on gaming.
 
