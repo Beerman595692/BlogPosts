@@ -1,6 +1,6 @@
 ---
 created: 2025-01-10T21:30
-updated: 2025-01-10T23:34
+updated: 2025-01-11T12:00
 ---
 Core to the beliefs of Jehovah's Witnesses is that the book of Genesis is 100% historical fact. That all creatures were individually created by God and that humans are special among all other life.
 
@@ -31,7 +31,7 @@ If highly trained scientists are unable to produce new species by artificially i
 
 Scientists have produced new species though.
 
-![Flies](https://github.com/Beerman595692/BlogPosts/blob/main/Media/evolution/Screenshot%202025-01-10%20at%2021-59-45%20What%20JW%20Get%20Wrong%20About%20Evolution.pdf.png?raw=true)
+![Flies](https://github.com/Beerman595692/BlogPosts/blob/main/Media/evolution/Screenshot%202025-01-10%20at%2021-59-45%20What%20JW%20Get%20Wrong%20About%20Evolution.png?raw=true)
 
 If they cannot breed with each other they
 are a different species
