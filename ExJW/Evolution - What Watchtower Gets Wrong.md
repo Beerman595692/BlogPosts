@@ -1,6 +1,6 @@
 ---
 created: 2025-01-10T21:30
-updated: 2025-01-11T15:13
+updated: 2025-01-12T12:53
 ---
 Core to the beliefs of Jehovah's Witnesses is that the book of Genesis is 100% historical fact. That all creatures were individually created by God and that humans are special among all other life.
 
@@ -39,15 +39,17 @@ are a different species
 >Darwin believed that what he called natural selection would favor those life-forms best suited to the environment, whereas less suitable life-forms would eventually die off. Modern evolutionists teach that as species spread and became isolated, natural selection chose the ones with gene mutations that made them capable of surviving in their new environment. As a result, evolutionists speculate, these isolated groups eventually developed into totally new species…. Nevertheless, what proof do evolutionists provide to support the claim that natural selection chooses beneficial mutations to produce new species?
 
 This proof
-https://evolution.berkeley.edu/evolution-101/speciation/evidence-for-speciation/
-https://www.nature.com/articles/nature13285
+
+* [https://evolution.berkeley.edu/evolution-101/speciation/evidence-for-speciation/](https://evolution.berkeley.edu/evolution-101/speciation/evidence-for-speciation/)
+
+* [https://www.nature.com/articles/nature13285](https://www.nature.com/articles/nature13285)
 
 >So, does natural selection really create entirely new species? Decades ago, evolutionary biologist George Christopher Williams began questioning whether natural selection had such power. 
 
 
 And do you know what his conclusion was? That it can. What he questioned was whether natural 
 selection happened on the group level and argued that it happens more on the genetic level.
-https://www.nature.com/articles/467790a
+[https://www.nature.com/articles/467790a](https://www.nature.com/articles/467790a)
 
 
 >Jeffrey H. Schwartz wrote that natural selection may be helping species adapt to 
@@ -55,7 +57,7 @@ the changing demands of existence, but it is not creating anything new.
 
 
 This is a misquote. 
-https://archive.org/details/suddenoriginsfos0000schw/page/320/mode/2up?view=theater
+[https://archive.org/details/suddenoriginsfos0000schw/page/320/mode/2up?view=theater](https://archive.org/details/suddenoriginsfos0000schw/page/320/mode/2up?view=theater)
 
 Here's the full quote
 
@@ -78,7 +80,7 @@ Why? Niles Eldredge, a staunch evolutionist, states that the fossil record shows
 
 
 Another case of misquoting. Niles Eldredge here is referring to his theory of punctuated equilibrium.
-https://en.wikipedia.org/wiki/Punctuated_equilibrium
+[https://en.wikipedia.org/wiki/Punctuated_equilibrium](https://en.wikipedia.org/wiki/Punctuated_equilibrium)
 He is in no way saying anything against evolution.
 
 Here's the full quote -[The triumph of evolution : and the failure of creationism-page 49](https://archive.org/details/triumphofevoluti0000eldr/page/n1/mode/2up)
@@ -102,7 +104,7 @@ Here’s a list of scientists who believe in God and Evolution
 What an atheistic bias these people must have huh?
 Something a lot of creationists like to do is make out like evolution is synonyms with atheism. This is blatantly false. Even if evolution wasn’t true that doesn’t automatically mean creationism is. The default position is “we don’t know” that however does not mean you can put God into whatever gap of knowledge you like. All this to say atheists do not need evolution to be true to not believe in God. On the other hand, to theists who want to believe Adam and Eve is a true story, evolution is a slap in the face. So, who really are the biased ones here?
 
-What is even funnier is how Watchtower doses mention that Wolf-Ekkehard Lönnig who they cited earlier is a Jehovah’s witness https://wol.jw.org/en/wol/d/r1/lp-e/102006327. Yeah, definitely no bias at all, huh. 
+What is even funnier is how Watchtower doses mention that Wolf-Ekkehard Lönnig who they cited earlier is a Jehovah’s witness [https://wol.jw.org/en/wol/d/r1/lp-e/102006327](https://wol.jw.org/en/wol/d/r1/lp-e/102006327). Yeah, definitely no bias at all, huh. 
 
 So according to Watchtower another Jehovah’s Witness is an unbiased source but [the vast majority of scientists who accept evolution](https://www.pewresearch.org/politics/2009/07/09/section-5-evolution-climate-change-and-other-issues/) are just all biased?
 
@@ -119,7 +121,7 @@ No one says it was spontaneous! No one says it was one single act that suddenly 
 >“Some writers,” says Robert Shapiro, professor emeritus of chemistry at New York University, “have presumed that all life’s building blocks could be formed with ease in Miller-type experiments and were present in meteorites. This is not the case.
 
 
-Shapiro isn’t arguing that abiogenesis is impossible. Using his word to try and make out like he is, is just dishonest. He has in fact giving his own ideas about how abiogenesis happened. https://news.harvard.edu/gazette/story/2008/10/nyu-chemist-robert-shapiro-decries-rna-firstpossibility/
+Shapiro isn’t arguing that abiogenesis is impossible. Using his word to try and make out like he is, is just dishonest. He has in fact giving his own ideas about how abiogenesis happened. [https://news.harvard.edu/gazette/story/2008/10/nyu-chemist-robert-shapiro-decries-rna-firstpossibility/](https://news.harvard.edu/gazette/story/2008/10/nyu-chemist-robert-shapiro-decries-rna-firstpossibility/)
 
 >Similarly, if scientists ever did construct a cell, they would accomplish something truly amazing—but would they prove that the cell could be made by accident? If anything, they would prove the very opposite, would they not?
 
@@ -130,21 +132,22 @@ Ok, but what if scientists showed all the individual steps that could have happe
 >What has the research uncovered? In 1999 biologist Malcolm S. Gordon wrote: “Life appears to have had many origins. The base of the universal tree of life appears not to have been a single root.” Is there evidence that all the major branches of life are connected to a single trunk, as Darwin believed? Gordon continues: “The traditional version of the theory of common descent apparently does not apply to kingdoms as presently recognized. It probably does not apply to many, if not all, phyla, and possibly also not to many classes within the phyla.”
 
 Gordon is not arguing against evolution he is talking about Horizontal gene transfer.
-https://en.wikipedia.org/wiki/Horizontal_gene_transfer
+[https://en.wikipedia.org/wiki/Horizontal_gene_transfer](https://en.wikipedia.org/wiki/Horizontal_gene_transfer)
 
 >This may then facilitate the development of a consensus among evolutionary biologists that will promote improved understanding of both evolutionary process and of actual evolutionary events.
 >
 >The author’s hope is that this essay may contribute in a small way to the mitigation of the strong trend toward more and more reductionism that pervades much of modern biology.
 
-Again, another paper about trying to understand evolution better being twisted to make it sound like he’s arguing against it. https://ncse.ngo/malcolm-gordon-0
+Again, another paper about trying to understand evolution better being twisted to make it sound like he’s arguing against it. [https://ncse.ngo/malcolm-gordon-0](https://ncse.ngo/malcolm-gordon-0)
 
 ### WHAT ABOUT THE FOSSIL RECORD?
 
 >“Instead of finding the gradual unfolding of life,” says evolutionary paleontologist David M. Raup, “what geologists of Darwin’s time, and geologists of the present day actually find is a highly uneven or jerky record; that is, species appear in the sequence very suddenly, show little or no change during their existence in the record, then abruptly go out of the record.”
 
 Here’s the actual article: 
-https://ia800700.us.archive.org/19/items/cbarchive_36375_conflictsbetweendarwinandpaleo1930/conflictsbetweendarwinandpaleo1930.pdf
-
+[https://ia800700.us.archive.org/19/items/cbarchive_36375_conflictsbetweendarwinandpaleo1930/conflictsbetweendarwinandpaleo1930.pdf
+](https://ia800700.us.archive.org/19/items/cbarchive_36375_conflictsbetweendarwinandpaleo1930/conflictsbetweendarwinandpaleo1930.pdf
+)
 Another example of someone writing about understanding evolution better twisted to make it sound like he’s arguing against it. Science is not something set in stone, as we do more research and find new evidence our understand of things grows. No one says Darwin got everything right or he didn’t make mistakes, but our understanding of evolution is now solely based on what Darwin said or wrote. As David Raup puts it “We must distinguish between the fact of evolution – defined as change in organisms over time – and the explanation of this change. Darwin’s contribution, through his theory of natural selection, was to suggest how evolutionary change took place.”
 
 
@@ -178,7 +181,7 @@ He is talking about specific fossil. A Hominid tooth found at site LO5. He’s s
 WHAT DOES THE “FILM” REALLY SHOW?
 >An article published in National Geographic in 2004 likened the fossil record to “a film of evolution from which 999 of every 1,000 frames have been lost on the cutting-room floor.” Consider the implications of that illustration.
 
-Here's the full quote https://www.nationalgeographic.com/magazine/article/was-darwin-wrong
+Here's the full quote [https://www.nationalgeographic.com/magazine/article/was-darwin-wrong](https://www.nationalgeographic.com/magazine/article/was-darwin-wrong)
 
 >Like the human hand, an early whale’s front foot (second) retains a five-fingered bone structure; a vestigial rear foot (first) has lost several toe bones, but its very existence testifies to the whale’s descent from a four-legged ancestor. Illuminating but spotty, the fossil record is like a film of evolution from which 999 of every 1,000 frames have been lost on the cutting-room floor. Still, Gingerich and others have found dozens of intermediate forms—missing links that are no longer missing.
 
@@ -279,10 +282,10 @@ In the November Broadcast of 2017 David Splaine quotes the Smithsonian about the
 So, they will gladly put Adam and Eve around 4026 B.C.E despite mountains of evidence to show humans have been around way longer than that. 
 I will now present this evidence.
 
-• https://edition.cnn.com/2023/09/20/africa/oldest-wooden-structure-zambia-scn/index.html
-• https://dozr.com/blog/5-oldest-buildings-around-the-world
-• https://www.theguardian.com/science/2017/jun/07/oldest-homo-sapiens-bones-everfound-shake-foundations-of-the-human-story
-• https://www.sciencealert.com/600-000-year-old-artifacts-reveal-some-of-britain-s-oldesttool-makers
+• [https://edition.cnn.com/2023/09/20/africa/oldest-wooden-structure-zambia-scn/index.html](https://edition.cnn.com/2023/09/20/africa/oldest-wooden-structure-zambia-scn/index.html)
+• [https://dozr.com/blog/5-oldest-buildings-around-the-world](https://dozr.com/blog/5-oldest-buildings-around-the-world)
+• [https://www.theguardian.com/science/2017/jun/07/oldest-homo-sapiens-bones-everfound-shake-foundations-of-the-human-story](https://www.theguardian.com/science/2017/jun/07/oldest-homo-sapiens-bones-everfound-shake-foundations-of-the-human-story)
+•[ https://www.sciencealert.com/600-000-year-old-artifacts-reveal-some-of-britain-s-oldesttool-makers]( https://www.sciencealert.com/600-000-year-old-artifacts-reveal-some-of-britain-s-oldesttool-makers)
 
 Humans have been around for at least 100s of thousands of years. To reduce that number to 6,000 years is just absurd. 
 
@@ -291,7 +294,8 @@ Though watchtower has tried in [the Insight Book they claim](https://wol.jw.org/
 >The thousands of years of “prehistory” they argue for are dependent on speculation, as can be seen from this statement by prominent scientist P. E. Klopsteg, who stated: “Come, now, if you will, on a _speculative_ excursion into prehistory. _Assume_ the era in which the species sapiens emerged from the genus Homo . . . hasten across the millenniums for which present information depends for the most part on _conjecture_ and _interpretation_ to the era of the first inscribed records, from which some facts may be gleaned.” (Italics ours.)​—_Science,_ December 30, 1960, p. 1914.
 
 Again this is more misquoting
-https://www.science.org/doi/10.1126/science.132.3444.1913
+[https://www.science.org/doi/10.1126/science.132.3444.1913](https://www.science.org/doi/10.1126/science.132.3444.1913)
+
 ![Actual Quote](https://github.com/Beerman595692/BlogPosts/blob/main/Media/evolution/GaMnZXIW8AAR8UZ.png?raw=true)
 
 highlighted are the bits they quoted. You see how much they missed out? This whole article is about the development of scientific tools. It isn't saying anything close to "prehistory is based on conjecture and interpretation"
@@ -299,16 +303,17 @@ highlighted are the bits they quoted. You see how much they missed out? This who
 
 Here’s some links and resource to learn more about how we know evolution is a fact.
 
-https://darwin200.christs.cam.ac.uk/how-do-we-know
+[https://darwin200.christs.cam.ac.uk/how-do-we-know](https://www.science.org/doi/10.1126/science.132.3444.1913)
 
-https://www.youtube.com/playlist?list=PLoGrBZC-lKFBo1xcLwz5e234--YXFsoU6
+[https://www.youtube.com/playlist?list=PLoGrBZC-lKFBo1xcLwz5e234--YXFsoU6](https://www.youtube.com/playlist?list=PLoGrBZC-lKFBo1xcLwz5e234--YXFsoU6)
 
-https://www.youtube.com/watch?v=d5eYbM5H-L0&list=PLLbOEx_k9dkdf5tqLmmC1o98WvyBYlGNk
+[https://www.youtube.com/watch?v=d5eYbM5H-L0&list=PLLbOEx_k9dkdf5tqLmmC1o98WvyBYlGNk
+](https://www.youtube.com/watch?v=d5eYbM5H-L0&list=PLLbOEx_k9dkdf5tqLmmC1o98WvyBYlGNk)
 
-https://www.amazon.co.uk/Evolution-True-Oxford-Landmark-Science/dp/0199230854
+[https://www.amazon.co.uk/Evolution-True-Oxford-Landmark-Science/dp/0199230854](https://www.amazon.co.uk/Evolution-True-Oxford-Landmark-Science/dp/0199230854)
 
-https://www.amazon.co.uk/Greatest-Show-Earth-Evidence-Evolution/dp/055277524X
+[https://www.amazon.co.uk/Greatest-Show-Earth-Evidence-Evolution/dp/055277524X](https://www.amazon.co.uk/Greatest-Show-Earth-Evidence-Evolution/dp/055277524X)
 
-https://topdocumentaryfilms.com/charles-darwin-tree-life/
+[https://topdocumentaryfilms.com/charles-darwin-tree-life/](https://topdocumentaryfilms.com/charles-darwin-tree-life/)
 
-http://www.talkorigins.org
+[http://www.talkorigins.org](http://www.talkorigins.org)
