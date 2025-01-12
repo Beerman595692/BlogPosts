@@ -1,6 +1,6 @@
 ---
 created: 2025-01-10T21:30
-updated: 2025-01-12T12:53
+updated: 2025-01-12T14:38
 ---
 Core to the beliefs of Jehovah's Witnesses is that the book of Genesis is 100% historical fact. That all creatures were individually created by God and that humans are special among all other life.
 
@@ -96,10 +96,14 @@ Here's the full quote -[The triumph of evolution : and the failure of creationis
 straight up lie. 
 
 Here’s a list of scientists who believe in God and Evolution
-	• Kenneth Miller
-	• Francisco J. Ayala
-	• Theodosius Grigorievich Dobzhansky
-	• Francis Collins
+
+• Kenneth Miller
+
+• Francisco J. Ayala
+
+• Theodosius Grigorievich Dobzhansky
+
+• Francis Collins
 
 What an atheistic bias these people must have huh?
 Something a lot of creationists like to do is make out like evolution is synonyms with atheism. This is blatantly false. Even if evolution wasn’t true that doesn’t automatically mean creationism is. The default position is “we don’t know” that however does not mean you can put God into whatever gap of knowledge you like. All this to say atheists do not need evolution to be true to not believe in God. On the other hand, to theists who want to believe Adam and Eve is a true story, evolution is a slap in the face. So, who really are the biased ones here?
@@ -283,8 +287,11 @@ So, they will gladly put Adam and Eve around 4026 B.C.E despite mountains of evi
 I will now present this evidence.
 
 • [https://edition.cnn.com/2023/09/20/africa/oldest-wooden-structure-zambia-scn/index.html](https://edition.cnn.com/2023/09/20/africa/oldest-wooden-structure-zambia-scn/index.html)
+
 • [https://dozr.com/blog/5-oldest-buildings-around-the-world](https://dozr.com/blog/5-oldest-buildings-around-the-world)
+
 • [https://www.theguardian.com/science/2017/jun/07/oldest-homo-sapiens-bones-everfound-shake-foundations-of-the-human-story](https://www.theguardian.com/science/2017/jun/07/oldest-homo-sapiens-bones-everfound-shake-foundations-of-the-human-story)
+
 •[ https://www.sciencealert.com/600-000-year-old-artifacts-reveal-some-of-britain-s-oldesttool-makers]( https://www.sciencealert.com/600-000-year-old-artifacts-reveal-some-of-britain-s-oldesttool-makers)
 
 Humans have been around for at least 100s of thousands of years. To reduce that number to 6,000 years is just absurd. 
