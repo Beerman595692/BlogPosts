@@ -1,6 +1,6 @@
 ---
 created: 2025-01-10T21:30
-updated: 2025-01-15T21:45
+updated: 2025-01-15T21:48
 ---
 Core to the beliefs of Jehovah's Witnesses is that the book of Genesis is 100% historical fact. That all creatures were individually created by God and that humans are special among all other life.
 
@@ -73,9 +73,7 @@ found by scientists more than adequately document macroevolution. It declares:
 “So many intermediate forms have been discovered between fish and amphibians, 
 between amphibians and reptiles, between reptiles and mammals, and along the 
 primate lines of descent that it often is difficult to identify categorically when the transition occurs from one to another particular species.” 
-
-.
-
+>
 >The facts. The confident statement made by the NAS brochure is quite surprising. 
 Why? Niles Eldredge, a staunch evolutionist, states that the fossil record shows, not that there is a gradual accumulation of change, but that for long periods of time, “little or no evolutionary change accumulates in most species.”
 
@@ -89,7 +87,7 @@ Here's the full quote -[The triumph of evolution : and the failure of creationis
 
 >Here is another pattern that has great potential significance for understanding hot the evolutionary process works-the subject of the next chapter: during the long intervals of time between enviromental disruption, extintion, and the rapid subsequent development of new speices, ecosystems and species themselves are remarkably stable. Little or no evolutionary change accumulates in most species during these periods of quiescence - a phenomenon not greatly remarked on by biologists until my colleague Stephen Jay Gould and I discussed it in the 1970s, calling it stasis
 
-
+--
 
 >To date, scientists worldwide have unearthed and cataloged some 200 million large fossils and billions of small fossils. Many researchers agree that this vast and detailed record shows that all the major groups of animals appeared suddenly and remained virtually unchanged, with many species disappearing as suddenly as they arrived
 
