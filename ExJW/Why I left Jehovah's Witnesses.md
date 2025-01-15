@@ -1,6 +1,6 @@
 ---
 created: 2025-01-12T14:38
-updated: 2025-01-12T23:29
+updated: 2025-01-15T22:17
 ---
 I was raised a Jehovah's Witnesses. I went to meetings, I preached and I truly believed all of it. I even got baptised. But during lock down things would change.
 
@@ -34,10 +34,10 @@ We also had a reading of the Noah's Ark account in Genesis, which open with form
 
 ![Flood](https://preview.redd.it/3e1e8z6muma71.png?width=1080&crop=smart&auto=webp&s=6dc10d1d7c52df23ab4e7a1dad3d3459ee76e7fb)
 
-The following week, my parents came into my room to tell me their were going to watch the second part of the convention. I announced to them I was done, finished, kaput. I no longer what to be a Jehovah's Wittiness any more. My mom tried to ask me to give them six month to get me back, but I was refused. I was finished.
+The following week, my parents came into my room to tell me their were going to watch the second part of the convention. I announced to them I was done, finished, kaput. I no longer what to be a Jehovah's Wittiness any more. My mom tried to ask me to give them six months to get me back, but I was refused. I was finished.
 
 # What do I think of religion?
-I had a lot of kids in my class who were ultra atheist. Claiming that religion holds humanity back and without it we'd already live in some star trekian society with flying cars and robot butler. Which I find to be a very big over simplification of progress works. And I've seen prominent atheists like Richard Dawkins claim that religion causes people to fly into building, reducing all the complicated history that led to the problems we have in the middle east today down to "because they believe in god" or what he really means "because they're Muslim" as his comments "\[Chrisitanity\] seems to me to be a fundamentally decent religion, in a way that I think Islam is not" showing that this way of thinking leads to the rise in Islamophobia we see today. As an ExJW I fully support Ex members of any religion including Islam and don't think any belief system is above criticism. But a lot of these new Atheists will gladly talk about how religion causes war while clearly choosing a side of said religious wars.
+I had a lot of kids in my class who were ultra atheist. Claiming that religion holds humanity back and without it we'd already live in some star trekian society with flying cars and robot butlers. Which I find to be a very big over simplification of how progress works. And I've seen prominent atheists like Richard Dawkins claim that religion causes people to fly into buildings, reducing all the complicated history that led to the problems we have in the middle east today down to "because they believe in god" or what he really means "because they're Muslim" as his comments "\[Chrisitanity\] seems to me to be a fundamentally decent religion, in a way that I think Islam is not" showing that this way of thinking leads to the rise in Islamophobia we see today. As an ExJW I fully support Ex members of any religion including Islam and don't think any belief system is above criticism. But a lot of these new Atheists will gladly talk about how religion causes war while clearly choosing a side of said religious wars.
 
 Personally, I don't believe in anything super natural or superstitious. I don't care if other people do, to each their own. But will not stand for any belief system that spreads hate, lies, denies scientific evidence, exploits people or abuses people.
 
