@@ -1,6 +1,6 @@
 ---
 created: 2025-01-10T21:30
-updated: 2025-01-12T14:38
+updated: 2025-01-15T21:45
 ---
 Core to the beliefs of Jehovah's Witnesses is that the book of Genesis is 100% historical fact. That all creatures were individually created by God and that humans are special among all other life.
 
@@ -73,7 +73,8 @@ found by scientists more than adequately document macroevolution. It declares:
 “So many intermediate forms have been discovered between fish and amphibians, 
 between amphibians and reptiles, between reptiles and mammals, and along the 
 primate lines of descent that it often is difficult to identify categorically when the transition occurs from one to another particular species.” 
->
+
+
 >The facts. The confident statement made by the NAS brochure is quite surprising. 
 Why? Niles Eldredge, a staunch evolutionist, states that the fossil record shows, not that there is a gradual accumulation of change, but that for long periods of time, “little or no evolutionary change accumulates in most species.”
 
