@@ -74,6 +74,7 @@ found by scientists more than adequately document macroevolution. It declares:
 between amphibians and reptiles, between reptiles and mammals, and along the 
 primate lines of descent that it often is difficult to identify categorically when the transition occurs from one to another particular species.” 
 
+.
 
 >The facts. The confident statement made by the NAS brochure is quite surprising. 
 Why? Niles Eldredge, a staunch evolutionist, states that the fossil record shows, not that there is a gradual accumulation of change, but that for long periods of time, “little or no evolutionary change accumulates in most species.”
