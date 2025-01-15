@@ -1,6 +1,6 @@
 ---
 created: 2025-01-12T14:38
-updated: 2025-01-15T22:17
+updated: 2025-01-15T22:18
 ---
 I was raised a Jehovah's Witnesses. I went to meetings, I preached and I truly believed all of it. I even got baptised. But during lock down things would change.
 
@@ -12,17 +12,17 @@ I made an effort to learn about evolution and could see the arguments Watchtower
 
 As well as the argument that "there of 1 in 1,000,000 chance of the earth being the way it is." If there was a 1 in 1,000 chance of there being a red button and you had 1,000 buttons at least one of them is going to be red. The universe is freaking huge, we don't even know how big it is. With such a large sample size, I think the Earth being the way it is an statistical inevitability.
 
-Well my parent thing "why are there still monkeys?" is a good argument, my borther at least knew a bit about evolution so I ask him stuff and he said "If evolution was true it would mean animals being born with different number of chromosome and therefore downs syndrome." Which isn't exactly how downs syndrome works. Turns out biology is a lot more complicated than what you learn in high school. [I'll let this reddit thread answer this one. ](https://www.reddit.com/r/DebateEvolution/comments/pgr53w/my_brother_told_me_evolution_could_have_happened/)
+Well my parent thing "why are there still monkeys?" is a good argument, my brother at least knew a bit about evolution so I ask him stuff and he said "If evolution was true it would mean animals being born with different number of chromosome and therefore downs syndrome." Which isn't exactly how downs syndrome works. Turns out biology is a lot more complicated than what you learn in high school. [I'll let this reddit thread answer this one. ](https://www.reddit.com/r/DebateEvolution/comments/pgr53w/my_brother_told_me_evolution_could_have_happened/)
 
 My parents brought in an old guy who apparently used to believe in evolution and he told me "if evolution was true, why are there still monkeys?" So I knew this was a waste of time. They then brought along a woman who used to be in my congregation who studied molecular biology. Her arguments was basically Darwinian Natural Selection and Mendelian inheritance had some conflict until modern synthesis brought them together. Which is just how science works. She also told me to read a book by Micheal Behe who I learnt is a complete charlatan. My dad also try to tell me that evolution can't explain why we have the diversity of life we have today, even though that literally what evolution is there to explain.
 
 While researching evolution, my parents ask my brother to change the wifi password to stop me from looking at stuff (even though I didn't look at anything apostate). But I got back in to it anyway. 
 
-We also watched the film made my watchtower "The Wonders of Creation Reveal God’s Glory" a film that just stupid arguments and animal stock footage set to whimsical music.
+We also watched the film made my watchtower "The Wonders of Creation Reveal God’s Glory" a film that's just stupid arguments and animal stock footage set to whimsical music.
 
 Eventually I said fuck it and start to secretly watch Apostate videos such as Lloyd Evans (who is an asshole now), Altworldly and ExJW Caleb and joined [r/exJW](https://www.reddit.com/r/exjw/top/). I learnt about how Watchtower lies about 1914 and 607. 
 
-I remember my dad being like "See the bible named a real place, see how accurate it is" I responded with "Well spider-man takes place in new york, new york is a real place, therefore spider-man is real" which he got really mad at me saying. I watched [Usefulcharts "who wrote the bible"](https://www.youtube.com/watch?v=NY-l0X7yGY0&list=PLY24TzULtd7Rs1oEXQyDrqNV2PG7Y5Rpz) series and learnt the real history about the bible and how it dosen't 100% line up with historical findings. 
+I remember my dad being like "See the bible named a real place, see how accurate it is" I responded with "Well spider-man takes place in new york, new york is a real place, therefore spider-man is real" which he got really mad at me saying. I watched [Usefulcharts "who wrote the bible"](https://www.youtube.com/watch?v=NY-l0X7yGY0&list=PLY24TzULtd7Rs1oEXQyDrqNV2PG7Y5Rpz) series and learnt the real history about the bible and how it doesn't 100% line up with historical findings. 
 
 Another Issue that got me was the Child abuse within the organisation. My parents would gladly watch documentaries about child abuse in other religions such one about the Church of England. Where they would make comments like "how could anyone join that religions when all this happened in it." But when came to documentaries or news report about it happening with Jehovah's Witnesses suddenly it's "that's just apostate lies and misinformation" and "they don't present the full facts." Their are plenty of cases out there of people who were abused and disfellowshipped for calling the police meanwhile the abuser was made an elder.
 
