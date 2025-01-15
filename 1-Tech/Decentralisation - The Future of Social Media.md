@@ -10,4 +10,14 @@ The main ways of doing it a through systems such as Peer 2 Peer, Blockchain tech
 
 # Activity Pub
 
-ActivityPub
+ActivityPub is a web protocol that allows for server to server communication. Basically you have a server running mastodon for example, it can communicate with other servers running mastodon or any other service that supports activitypub. Such Lemmy(an ap version of reddit), Peertube (an ap version of yourtube) or pixelfed (an ap version of Instagram). In other words someone could make a Peertube channel and you could follow them with your mastodon account and see their videos in your mastodon feed. No need to create a separate Peertube account.
+
+Moderation is managed by the individual servers. If you don't like how a server is managed, you can migrate to a new one with losing your followers or following. 
+
+Server also have the option to defederated. Donald Trump's truth social uses activity pub, so many mastodon instances could just defederate with it so no posts from truth social would make it's way onto their servers.
+
+# AT Protocol 
+
+The **Authenticated Transfer Protoco** or AT proto seems to address some of activitypub's shortcomings. Such when migrating servers you lose your posts and if your mastodon instance shuts down you lose all your data.
+
+With the AT protocol you Host a Personal Data Server or PDS for short. This PDS stores all your data, your posts, your likes, who you follow, who follows you. 
