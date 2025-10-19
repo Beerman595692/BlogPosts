@@ -1,6 +1,6 @@
 ---
-created: 2025-08-27T22:27
-updated: 2025-08-27T23:02
+created: 2025-10-19T16:27
+updated: 2025-10-19T16:27
 ---
 
 About a month ago I saw some videos by a Channel called [Movementum](https://www.youtube.com/@Movementum) which introduced me to the concept of furniture free. And a lot of it made sense. He talked about giving up furniture and doing most of daily tasks on the floor. The logic being that in a chair on meant to sit in one position. Feet on floor, back straight, arms at a 90 degree angle. But when sit in a chair, I just want to slouch and put my feet on the desk. I one of the reason for my mouseless setup was so I could mount my split keyboard to my arm rests so I could lean back in my chair and not have to reach my desk. But every so often you have to get up and move around, as recommended by health experts, because our bodies aren't made to stay in one position for long periods of time. Even if you sit with perfect posture your muscles will feel sore. Because you are made to move. On the floor you can sit in any position you wish and if one position is starting to feel uncomfortable, you can move to another. There is no correct way to sit.
